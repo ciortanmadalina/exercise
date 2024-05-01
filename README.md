@@ -16,6 +16,10 @@ Predictive maintenance involves analyzing historical data to predict when a mach
 2. Regression: time to failure (see lstm.ipynb)
 - XGBoost regression (see xgboost.ipynb)
 
+### Presentation
+[Link](https://docs.google.com/presentation/d/1STqvaCWSlB4ZJVTp_rtDA35BcFQ_CCIimBSOsQoPPGU/edit#slide=id.g2d13b986bb9_0_6) to the 10 min presentation of the solution
+
+
 
 ## Getting Started
 
