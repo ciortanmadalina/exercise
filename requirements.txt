@@ -7,3 +7,4 @@ jupyterlab
 imbalanced-learn
 xgboost
 umap-learn
+torch
