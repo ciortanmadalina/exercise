@@ -29,7 +29,12 @@ To get started with our solution, follow these steps:
 
 2. Install the required dependencies: `pip install -r requirements.txt`
 
-3. Run the relevant noteboos: xgboost.ipynb, lstm.ipynb
+3. Save the input csv in a "data" folder at the root of this project
+
+4. Run the relevant noteboos: 
+ - preprocessing.ipynb
+ - xgboost.ipynb
+ - lstm.ipynb
 
 
 ### Next steps
